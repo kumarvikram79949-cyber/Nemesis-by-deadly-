@@ -1,0 +1,6 @@
+{
+  "name": "NEMESIS BY DEADLY",
+  "description": "AI-Powered Real-Time Prediction Engine, Algorithm Analysis & Key Management System by DEADLY",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
